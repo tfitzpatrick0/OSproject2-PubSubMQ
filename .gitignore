@@ -1,0 +1,9 @@
+.DS_Store
+
+bin/test_echo_client
+bin/test_queue_functional
+bin/test_queue_unit
+bin/test_request_unit
+lib/libmq_client.a
+*.o
+*.swp
