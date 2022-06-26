@@ -56,7 +56,7 @@ brainstorming questions **are not required**.
     
 ## Demonstration
 
-> Link to **video demonstration** of **chat application**.
+> https://youtu.be/vk3ihaencVY
 
 ## Errata
 
