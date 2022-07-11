@@ -11,8 +11,7 @@ This is [Project 02] of [CSE.30341.FA21].
 ## Brainstorming
 
 The following are questions that should help you in thinking about how to
-approach implementing [Project 02].  For this project, responses to these
-brainstorming questions **are not required**.
+approach implementing [Project 02].
 
 ### Request
 
